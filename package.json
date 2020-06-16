@@ -1,0 +1,14 @@
+{
+  "name": "automatic_listing",
+  "version": "1.0.0",
+  "description": "a little script to automate a list through excel tables",
+  "main": "app.py",
+  "scripts": {
+    "test": "pip install"
+  },
+  "keywords": [
+    "python3"
+  ],
+  "author": "Andrew A",
+  "license": "ISC"
+}
